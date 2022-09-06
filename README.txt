@@ -1,30 +1,36 @@
-Library of Random Variate Generation Routines
-Author: Noelle Richards
+Telephasic by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-User Guide: 
 
-1. Set seed number (line 11)
-2. Run lines 1-181 in order to load the function. 
-3. Run function using 
-RVG()
-This function requires no inputs, and outputs a vector of random variates.
-4. Follow prompts.
+This is Telephasic, a brand new site template for HTML5 UP. It features a sharp, modern
+design inspired by omfg everything, and makes good use of SVGs to ensure stuff looks
+nice and crispy on retina displays.
 
-	a. Prompt 1: 
-		"Please select which distribution from which to generate random variates.  1: Bernoulli     2: Binomial      3: Geometric     
-		4: Poisson       5: Uniform       6: Exponential   7: Normal        8: Erlang        9: Triangular	10: Gamma        11: Weibull"
-	Select option using number in the console.
+Demo images* are courtesy of Felicia Simion, an amazing photographer with an
+incredible portfolio over at deviantART:
 
-	b. Prompt 2: 
-		"Please enter the number of random variates you would like generated: "
-	Enter an integer > 0 in the console.
+http://ineedchemicalx.deviantart.com/
 
-	c. Prompt 3: 
-	This prompt is dependent on the distribution selected. For example, if Normal is selected, the next prompt will read:
-		"Please enter the lower bound: "
-		"Please enter the upper bound: "
-	Enter the appropriate values in the console.
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Felicia's work without her explicit permission!)
 
-*To graph the results of the random variate generation, run the entire file. A graph will be produced using lines 186-188. 
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-   
+AJ
+aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+
+
+Credits:
+
+	Demo Images:
+		Felicia Simion (ineedchemicalx.deviantart.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
