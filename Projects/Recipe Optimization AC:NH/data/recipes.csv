@@ -1,0 +1,611 @@
+﻿Name,#1,Material 1,#2,Material 2,#3,Material 3,#4,Material 4,#5,Material 5,#6,Material 6,#7,Material 7,Sell
+acorn pochette,6,acorn,,,,,,,,,,,,,2400
+acoustic guitar,8,softwood,3,iron nugget,,,,,,,,,,,3210
+angled signpost,2,hardwood,3,softwood,,,,,,,,,,,600
+apple chair,10,apple,4,wood,,,,,,,,,,,2480
+apple dress,8,apple,,,,,,,,,,,,,1600
+apple hat,5,apple,,,,,,,,,,,,,1000
+apple rug,6,apple,,,,,,,,,,,,,1200
+apple umbrella,7,apple,,,,,,,,,,,,,1400
+apple wall,20,apple,,,,,,,,,,,,,4000
+Aquarius urn,3,star fragment,2,Aquarius fragment,2,gold nugget,5,stone,,,,,,,22125
+Aries rocking chair,3,star fragment,2,Aries fragment,1,gold nugget,5,stone,,,,,,,12125
+armor shoes,4,iron nugget,,,,,,,,,,,,,3000
+aroma pot,3,clay,,,,,,,,,,,,,600
+asteroid,5,star fragment,10,stone,,,,,,,,,,,4000
+astronaut suit,5,star fragment,5,iron nugget,,,,,,,,,,,6250
+autumn wall,10,maple leaf,5,wood,5,clump of weeds,,,,,,,,,4700
+axe,3,wood,1,iron nugget,5,tree branch,1,stone,,,,,,,625
+backyard lawn,30,clump of weeds,,,,,,,,,,,,,600
+bamboo basket,7,bamboo piece,,,,,,,,,,,,,1120
+bamboo bench,8,bamboo piece,,,,,,,,,,,,,1280
+bamboo candleholder,3,bamboo piece,2,clay,,,,,,,,,,,880
+bamboo doll,6,young spring bamboo,,,,,,,,,,,,,2400
+bamboo drum,3,bamboo piece,2,softwood,,,,,,,,,,,720
+bamboo floor lamp,8,bamboo piece,,,,,,,,,,,,,1280
+bamboo flooring,15,bamboo piece,,,,,,,,,,,,,2400
+bamboo hat,10,clump of weeds,,,,,,,,,,,,,200
+bamboo lattice fence,6,bamboo piece,,,,,,,,,,,,,960
+bamboo lunch box,4,bamboo piece,,,,,,,,,,,,,640
+bamboo noodle slide,7,young spring bamboo,3,wood,,,,,,,,,,,3160
+bamboo partition,7,bamboo piece,6,stone,,,,,,,,,,,2020
+bamboo shelf,15,bamboo piece,,,,,,,,,,,,,2400
+bamboo speaker,3,bamboo piece,1,iron nugget,,,,,,,,,,,1230
+bamboo sphere,3,bamboo piece,,,,,,,,,,,,,480
+bamboo stool,5,bamboo piece,,,,,,,,,,,,,800
+bamboo stopblock,3,bamboo piece,,,,,,,,,,,,,480
+bamboo wall,15,bamboo piece,,,,,,,,,,,,,2400
+bamboo wall decoration,1,bamboo piece,,,,,,,,,,,,,160
+bamboo wand,6,young spring bamboo,3,star fragment,,,,,,,,,,,3900
+bamboo-grove wall,7,young spring bamboo,3,bamboo shoot,,,,,,,,,,,4300
+bamboo-shoot lamp,4,young spring bamboo,5,bamboo shoot,4,clay,,,,,,,,,4900
+barbed-wire fence,3,hardwood,2,iron nugget,,,,,,,,,,,1980
+barbell,10,iron nugget,,,,,,,,,,,,,7500
+barrel,5,wood,2,iron nugget,,,,,,,,,,,2100
+basement flooring,10,stone,,,,,,,,,,,,,1500
+basket pack,6,young spring bamboo,,,,,,,,,,,,,2400
+beekeeper's hive,3,wasp nest,5,wood,,,,,,,,,,,2400
+big festive tree,6,red ornament,6,blue ornament,4,gold ornament,5,wood,5,clay,,,,,3200
+birdbath,6,stone,,,,,,,,,,,,,900
+birdcage,8,wood,,,,,,,,,,,,,960
+birdhouse,2,wood,5,softwood,,,,,,,,,,,840
+blossom-viewing lantern,6,cherry-blossom petal,4,hardwood,,,,,,,,,,,2880
+blue rose crown,6,blue roses,,,,,,,,,,,,,12000
+blue rose wreath,10,blue roses,,,,,,,,,,,,,20000
+bone doorplate,3,softwood,,,,,,,,,,,,,360
+bonfire,3,tree branch,10,wood,,,,,,,,,,,1230
+bonsai shelf,8,pine cone,8,wood,6,cherry-blossom petal,2,hardwood,3,clump of weeds,8,clay,,,8460
+boomerang,3,hardwood,,,,,,,,,,,,,360
+brick fence,6,clay,,,,,,,,,,,,,1200
+brick oven,8,clay,2,iron nugget,6,wood,,,,,,,,,3820
+brick well,8,clay,5,wood,5,hardwood,,,,,,,,,2800
+bridge construction kit,12,wood,4,clay,4,stone,,,,,,,,,0
+brown herringbone wall,15,softwood,,,,,,,,,,,,,1800
+Bunny Day arch,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,,,4800
+Bunny Day bag,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+Bunny Day bed,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+Bunny Day crown,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+Bunny Day fence,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+Bunny Day festive balloons,1,stone egg,1,wood egg,1,water egg,,,,,,,,,1200
+Bunny Day flooring,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,,,4800
+Bunny Day glowy garland,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+Bunny Day lamp,4,wood egg,,,,,,,,,,,,,1600
+Bunny Day merry balloons,1,earth egg,1,leaf egg,1,sky egg,,,,,,,,,1200
+Bunny Day rug,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+Bunny Day stool,3,water egg,,,,,,,,,,,,,1200
+Bunny Day table,4,earth egg,,,,,,,,,,,,,1600
+Bunny Day vanity,4,leaf egg,,,,,,,,,,,,,1600
+Bunny Day wall,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,,,4800
+Bunny Day wall clock,3,sky egg,,,,,,,,,,,,,1200
+Bunny Day wand,3,star fragment,4,earth egg,4,stone egg,4,leaf egg,4,wood egg,4,sky egg,4,water egg,11100
+Bunny Day wardrobe,4,stone egg,,,,,,,,,,,,,1600
+Bunny Day wreath,1,earth egg,1,stone egg,1,leaf egg,1,wood egg,1,sky egg,1,water egg,,,2400
+butter churn,4,wood,2,iron nugget,,,,,,,,,,,1980
+cabin wall,15,hardwood,,,,,,,,,,,,,1800
+campfire,3,tree branch,,,,,,,,,,,,,30
+campsite construction kit,15,wood,15,softwood,15,hardwood,15,iron nugget,,,,,,,0
+Cancer table,3,star fragment,2,Cancer fragment,2,gold nugget,3,stone,,,,,,,21975
+Capricorn ornament,3,star fragment,2,Capricorn fragment,2,gold nugget,12,stone,,,,,,,22650
+cardboard bed,4,cardboard box,,,,,,,,,,,,,240
+cardboard chair,1,cardboard box,,,,,,,,,,,,,60
+cardboard sofa,2,cardboard box,,,,,,,,,,,,,120
+cardboard table,4,cardboard box,,,,,,,,,,,,,240
+cherry dress,8,cherry,,,,,,,,,,,,,1600
+cherry hat,5,cherry,,,,,,,,,,,,,1000
+cherry lamp,10,cherry,2,clay,,,,,,,,,,,2400
+cherry rug,6,cherry,,,,,,,,,,,,,1200
+cherry speakers,10,cherry,2,iron nugget,,,,,,,,,,,3500
+cherry umbrella,7,cherry,,,,,,,,,,,,,1400
+cherry wall,20,cherry,,,,,,,,,,,,,4000
+cherry-blossom bonsai,6,cherry-blossom petal,2,hardwood,3,clump of weeds,3,clay,,,,,,,3300
+cherry-blossom branches,8,cherry-blossom petal,4,tree branch,5,clay,,,,,,,,,4240
+cherry-blossom clock,5,cherry-blossom petal,,,,,,,,,,,,,2750
+cherry-blossom flooring,10,cherry-blossom petal,20,clump of weeds,,,,,,,,,,,4400
+cherry-blossom pochette,6,cherry-blossom petal,,,,,,,,,,,,,2400
+cherry-blossom pond stone,10,stone,3,cherry-blossom petal,,,,,,,,,,,2700
+cherry-blossom umbrella,7,cherry-blossom petal,,,,,,,,,,,,,2800
+cherry-blossom wand,3,cherry-blossom petal,3,star fragment,,,,,,,,,,,2700
+cherry-blossom-petal pile,5,cherry-blossom petal,,,,,,,,,,,,,2000
+cherry-blossom-trees wall,10,cherry-blossom petal,5,hardwood,,,,,,,,,,,4600
+chic cosmos wreath,10,black cosmos,,,,,,,,,,,,,4800
+chic mum crown,3,purple mums,3,pink mums,,,,,,,,,,,960
+chic rose crown,3,purple roses,3,black roses,,,,,,,,,,,2880
+chic tulip crown,2,purple tulips,2,pink tulips,1,orange tulips,,,,,,,,,1440
+chic windflower wreath,10,purple windflowers,,,,,,,,,,,,,4800
+chocolate herringbone wall,15,softwood,,,,,,,,,,,,,1800
+clackercart,2,hardwood,6,softwood,,,,,,,,,,,960
+classic pitcher,4,clay,,,,,,,,,,,,,800
+classic-library wall,10,book,,,,,,,,,,,,,1450
+clothesline,10,tree branch,,,,,,,,,,,,,100
+coconut juice,1,coconut,,,,,,,,,,,,,500
+coconut wall planter,1,coconut,5,clump of weeds,,,,,,,,,,,600
+colored-leaves flooring,10,maple leaf,15,clump of weeds,,,,,,,,,,,4300
+cool hyacinth crown,4,blue hyacinths,2,pink hyacinths,2,orange hyacinths,,,,,,,,,1280
+cool hyacinth wreath,3,orange hyacinths,3,blue hyacinths,3,pink hyacinths,,,,,,,,,1440
+cool pansy crown,3,orange pansies,3,blue pansies,,,,,,,,,,,960
+cool pansy wreath,10,purple pansies,,,,,,,,,,,,,4800
+cool windflower crown,3,blue windflowers,3,pink windflowers,,,,,,,,,,,960
+cool windflower wreath,3,blue windflowers,3,pink windflowers,3,white windflowers,,,,,,,,,1200
+corral fence,6,wood,,,,,,,,,,,,,720
+cosmos crown,2,red cosmos,2,yellow cosmos,3,white cosmos,,,,,,,,,480
+cosmos shower,5,pink cosmos,3,iron nugget,,,,,,,,,,,3050
+cosmos wand,1,white cosmos,3,star fragment,,,,,,,,,,,1580
+cosmos wreath,3,yellow cosmos,3,white cosmos,3,red cosmos,,,,,,,,,720
+country fence,6,hardwood,,,,,,,,,,,,,720
+crescent-moon chair,7,star fragment,1,large star fragment,,,,,,,,,,,8500
+crest doorplate,4,iron nugget,,,,,,,,,,,,,3000
+crewed spaceship,10,star fragment,20,iron nugget,,,,,,,,,,,20000
+cute lily crown,2,pink lilies,2,orange lilies,2,white lilies,,,,,,,,,800
+cute rose crown,3,pink roses,3,orange roses,,,,,,,,,,,960
+cutting board,2,hardwood,1,iron nugget,,,,,,,,,,,990
+dark bamboo rug,6,bamboo piece,,,,,,,,,,,,,960
+dark cosmos crown,7,black cosmos,,,,,,,,,,,,,3360
+dark lily crown,6,black lilies,,,,,,,,,,,,,960
+dark lily wreath,10,black lilies,,,,,,,,,,,,,1600
+dark rose wreath,3,black roses,6,purple roses,,,,,,,,,,,4320
+dark tulip crown,5,black tulips,,,,,,,,,,,,,800
+dark tulip wreath,10,black tulips,,,,,,,,,,,,,1600
+dark wooden-mosaic wall,15,wood,,,,,,,,,,,,,1800
+decoy duck,4,softwood,,,,,,,,,,,,,480
+deer decoration,8,softwood,,,,,,,,,,,,,960
+deer scare,3,bamboo piece,8,stone,3,clump of weeds,,,,,,,,,1740
+destinations signpost,4,hardwood,8,softwood,,,,,,,,,,,1440
+DIY workbench,8,wood,8,hardwood,8,softwood,5,iron nugget,,,,,,,6630
+document stack,1,scattered papers,,,,,,,,,,,,,400
+doghouse,10,wood,7,hardwood,,,,,,,,,,,2040
+drinking fountain,8,stone,2,iron nugget,,,,,,,,,,,2700
+earth-egg outfit,3,earth egg,,,,,,,,,,,,,1200
+earth-egg shell,2,earth egg,,,,,,,,,,,,,800
+earth-egg shoes,2,earth egg,,,,,,,,,,,,,800
+egg party dress,3,earth egg,3,stone egg,3,leaf egg,3,wood egg,3,sky egg,3,water egg,,,7200
+egg party hat,2,earth egg,2,stone egg,2,leaf egg,2,wood egg,2,sky egg,2,water egg,,,4800
+fancy lily wreath,3,orange lilies,3,pink lilies,3,yellow lilies,,,,,,,,,1200
+fancy mum wreath,3,pink mums,3,purple mums,3,red mums,,,,,,,,,1200
+fancy rose wreath,3,orange roses,3,pink roses,3,yellow roses,,,,,,,,,1200
+festive top set,2,gold ornament,1,hardwood,,,,,,,,,,,320
+festive tree,3,red ornament,3,blue ornament,3,gold ornament,5,wood,,,,,,,1400
+firewood,8,wood,,,,,,,,,,,,,960
+fish bait,1,manila clam,,,,,,,,,,,,,200
+fishing rod,5,tree branch,1,iron nugget,,,,,,,,,,,600
+flat garden rock,20,stone,,,,,,,,,,,,,3000
+flimsy axe,5,tree branch,1,stone,,,,,,,,,,,200
+flimsy fishing rod,5,tree branch,,,,,,,,,,,,,100
+flimsy net,5,tree branch,,,,,,,,,,,,,100
+flimsy shovel,5,hardwood,,,,,,,,,,,,,200
+flimsy watering can,5,softwood,,,,,,,,,,,,,200
+floral swag,10,clump of weeds,,,,,,,,,,,,,200
+flower stand,1,red roses,2,pink roses,2,orange roses,2,white liles,1,yellow lilies,4,purple windflowers,,,2880
+flying saucer,15,star fragment,10,iron nugget,,,,,,,,,,,15000
+forest flooring,1,rare mushroom,2,round mushroom,2,skinny mushroom,2,flat mushroom,10,clump of weeds,,,,,35000
+forest wall,2,elegant mushroom,2,round mushroom,2,skinny mushroom,2,flat mushroom,10,wood,,,,,44000
+fossil doorplate,1,fossil,2,stone,,,,,,,,,,,500
+fountain,28,stone,10,iron nugget,,,,,,,,,,,11700
+frozen arch,1,large snowflake,10,snowflake,,,,,,,,,,,9000
+frozen bed,1,large snowflake,10,snowflake,,,,,,,,,,,9000
+frozen chair,1,large snowflake,3,snowflake,,,,,,,,,,,6200
+frozen counter,1,large snowflake,5,snowflake,,,,,,,,,,,7000
+frozen partition,1,large snowflake,6,snowflake,,,,,,,,,,,7400
+frozen pillar,1,large snowflake,4,snowflake,,,,,,,,,,,6200
+frozen sculpture,1,large snowflake,4,snowflake,,,,,,,,,,,6600
+frozen table,1,large snowflake,8,snowflake,,,,,,,,,,,8200
+frozen tree,1,large snowflake,8,snowflake,,,,,,,,,,,8200
+frozen-treat set,1,large snowflake,1,snowflake,,,,,,,,,,,5400
+fruit basket,1,apple,1,pear,1,cherry,1,orange,1,peach,,,,,1000
+fruit wreath,2,apple,1,pear,3,cherry,3,orange,1,peach,,,,,2000
+frying pan,2,iron nugget,,,,,,,,,,,,,1500
+galaxy flooring,5,star fragment,1,large star fragment,,,,,,,,,,,7500
+garbage-heap flooring,2,empty can,2,boot,2,old tire,,,,,,,,,120
+garbage-heap wall,2,empty can,2,boot,2,old tire,,,,,,,,,120
+garden bench,12,wood,4,iron nugget,,,,,,,,,,,4440
+garden rock,15,stone,,,,,,,,,,,,,2250
+garden wagon,3,white hyacinths,3,red cosmos,3,yellow roses,8,wood,2,iron nugget,,,,,3180
+Gemini closet,3,star fragment,2,Gemini fragment,2,gold nugget,6,stone,,,,,,,22000
+giant teddy bear,1,Papa bear,1,Mama bear,1,Baby bear,,,,,,,,,6300
+gold armor,8,gold nugget,,,,,,,,,,,,,80000
+gold bars,3,gold nugget,,,,,,,,,,,,,30000
+gold helmet,5,gold nugget,,,,,,,,,,,,,50000
+gold rose crown,6,gold roses,,,,,,,,,,,,,12000
+gold rose wreath,10,gold roses,,,,,,,,,,,,,20000
+gold-armor shoes,4,gold nugget,,,,,,,,,,,,,40000
+golden arowana model,3,gold nugget,,,,,,,,,,,,,30000
+golden axe,1,stone,1,gold nugget,3,wood,1,iron nugget,5,tree branch,,,,,10655
+golden candlestick,2,gold nugget,,,,,,,,,,,,,20000
+golden casket,8,gold nugget,,,,,,,,,,,,,80000
+golden dishes,1,gold nugget,,,,,,,,,,,,,10000
+golden dung beetle,3,gold nugget,,,,,,,,,,,,,30000
+golden flooring,4,gold nugget,,,,,,,,,,,,,40000
+golden gears,1,gold nugget,3,iron nugget,,,,,,,,,,,11125
+golden net,5,tree branch,1,gold nugget,1,iron nugget,,,,,,,,,10400
+golden rod,5,tree branch,1,gold nugget,1,iron nugget,,,,,,,,,10400
+golden seat,5,gold nugget,,,,,,,,,,,,,50000
+golden shovel,5,hardwood,1,gold nugget,,,,,,,,,,,10675
+golden slingshot,5,hardwood,1,gold nugget,,,,,,,,,,,10300
+golden toilet,6,gold nugget,,,,,,,,,,,,,60000
+golden wall,4,gold nugget,,,,,,,,,,,,,40000
+golden wand,2,gold nugget,3,star fragment,,,,,,,,,,,20750
+golden watering can,5,softwood,1,gold nugget,1,iron nugget,,,,,,,,,10675
+gold-screen wall,2,gold nugget,1,screen wall,,,,,,,,,,,20750
+gong,6,iron nugget,5,wood,,,,,,,,,,,5100
+grass skirt,7,clump of weeds,,,,,,,,,,,,,140
+grass standee,2,wood,2,softwood,,,,,,,,,,,480
+green grass skirt,7,clump of weeds,,,,,,,,,,,,,140
+green-leaf pile,1,young spring bamboo,10,clump of weeds,,,,,,,,,,,600
+hanging terrarium,12,clump of weeds,4,iron nugget,,,,,,,,,,,3240
+hay bed,20,clump of weeds,,,,,,,,,,,,,400
+hearth,2,bamboo piece,5,iron nugget,4,clay,5,hardwood,,,,,,,5470
+hedge,10,weed,5,branch,2,stone,,,,,,,,,550
+hedge standee,2,wood,3,softwood,,,,,,,,,,,600
+holiday candle,5,red ornament,5,clump of weeds,,,,,,,,,,,600
+honeycomb flooring,5,wasp nest,,,,,,,,,,,,,3000
+honeycomb wall,6,wasp nest,,,,,,,,,,,,,3600
+hyacinth crown,4,red hyacinths,2,yellow hyacinths,2,white hyacinths,,,,,,,,,640
+hyacinth lamp,5,purple hyacinths,3,clay,,,,,,,,,,,3000
+hyacinth wand,1,pink hyacinths,3,star fragment,,,,,,,,,,,1660
+hyacinth wreath,3,white hyacinths,3,red hyacinths,3,yellow hyacinths,,,,,,,,,720
+ice flooring,1,large snowflake,8,snowflake,,,,,,,,,,,8200
+ice wall,1,large snowflake,8,snowflake,,,,,,,,,,,8200
+ice wand,1,large snowflake,3,star fragment,,,,,,,,,,,6500
+iceberg flooring,10,snowflake,,,,,,,,,,,,,4000
+iceberg wall,1,large snowflake,8,snowflake,,,,,,,,,,,4000
+illuminated present,3,red ornament,4,gold ornament,3,iron nugget,,,,,,,,,2950
+illuminated reindeer,6,gold ornament,5,iron nugget,,,,,,,,,,,4350
+illuminated snowflakes,9,blue ornament,3,gold nugget,,,,,,,,,,,3150
+illuminated tree,3,red ornament,4,gold ornament,3,iron nugget,,,,,,,,,6700
+imperial fence,6,wood,4,softwood,,,,,,,,,,,1200
+infused-water dispenser,2,apple,2,pear,2,cherry,2,orange,2,peach,2,coconut,,,3000
+iron armor,8,iron nugget,,,,,,,,,,,,,6000
+iron closet,12,iron nugget,,,,,,,,,,,,,9000
+iron doorplate,2,iron nugget,,,,,,,,,,,,,1500
+iron fence,6,iron nugget,,,,,,,,,,,,,4500
+iron frame,20,iron nugget,,,,,,,,,,,,,15000
+iron garden bench,8,iron nugget,,,,,,,,,,,,,6000
+iron garden chair,3,iron nugget,,,,,,,,,,,,,2250
+iron garden table,5,iron nugget,,,,,,,,,,,,,3750
+iron hanger stand,3,iron nugget,,,,,,,,,,,,,2250
+iron shelf,14,iron nugget,,,,,,,,,,,,,10500
+iron wall lamp,4,iron nugget,2,clay,,,,,,,,,,,3400
+iron wall rack,3,iron nugget,1,clay,,,,,,,,,,,2450
+iron wand,3,iron nugget,3,star fragment,,,,,,,,,,,3750
+iron worktable,10,iron nugget,,,,,,,,,,,,,7500
+iron-and-stone fence,6,stone,3,iron nugget,,,,,,,,,,,3150
+ironwood bed,20,wood,10,iron nugget,,,,,,,,,,,9900
+ironwood cart,6,wood,4,iron nugget,,,,,,,,,,,3720
+ironwood chair,3,wood,2,iron nugget,,,,,,,,,,,1860
+ironwood clock,2,wood,2,iron nugget,,,,,,,,,,,1740
+ironwood cupboard,19,wood,10,iron nugget,,,,,,,,,,,9780
+ironwood DIY workbench,15,wood,8,iron nugget,3,hardwood,3,softwood,,,,,,,8520
+ironwood dresser,7,wood,4,iron nugget,,,,,,,,,,,3840
+ironwood kitchenette,11,wood,8,iron nugget,2,hardwood,,,,,,,,,7560
+ironwood low table,6,wood,4,iron nugget,,,,,,,,,,,3720
+ironwood table,12,wood,6,iron nugget,,,,,,,,,,,5940
+jail bars,5,iron nugget,,,,,,,,,,,,,3750
+Jingle wall,5,red ornament,5,blue ornament,5,gold ornament,5,clay,,,,,,,2500
+juicy-apple TV,10,apple,2,iron nugget,,,,,,,,,,,3500
+jungle flooring,10,clump of weeds,10,clay,,,,,,,,,,,2200
+jungle wall,15,clump of weeds,3,wood,3,hardwood,3,softwood,,,,,,,1380
+kettle bathtub,8,iron nugget,2,wood,3,tree branch,,,,,,,,,6270
+kettlebell,5,iron nugget,,,,,,,,,,,,,3750
+key holder,3,wood,1,iron nugget,,,,,,,,,,,1110
+knight's helmet,5,iron nugget,,,,,,,,,,,,,3750
+knitted-grass backpack,20,clump of weeds,,,,,,,,,,,,,400
+ladder,4,wood,4,hardwood,4,softwood,,,,,,,,,1440
+large cardboard boxes,5,cardboard box,,,,,,,,,,,,,300
+lattice fence,8,softwood,,,,,,,,,,,,,960
+leaf,5,clump of weeds,,,,,,,,,,,,,100
+leaf campfire,3,pine cone,5,clump of weeds,3,tree branch,,,,,,,,,1330
+leaf mask,10,clump of weeds,,,,,,,,,,,,,200
+leaf stool,3,maple leaf,3,wood,,,,,,,,,,,1560
+leaf umbrella,15,clump of weeds,,,,,,,,,,,,,300
+leaf-egg outfit,3,leaf egg,,,,,,,,,,,,,1200
+leaf-egg shell,2,leaf egg,,,,,,,,,,,,,800
+leaf-egg shoes,2,leaf egg,,,,,,,,,,,,,800
+Leo sculpture,3,star fragment,2,Leo fragment,2,gold nugget,3,stone,,,,,,,21975
+Libra scale,3,star fragment,2,Libra fragment,2,gold nugget,,,,,,,,,21750
+light bamboo rug,6,young spring bamboo,,,,,,,,,,,,,2400
+lily crown,2,red lilies,2,yellow lilies,2,white lilies,,,,,,,,,480
+lily record player,5,white lilies,3,iron nugget,3,wood,,,,,,,,,3010
+lily wand,1,white lilies,3,star fragment,,,,,,,,,,,1580
+lily wreath,3,white lilies,3,red lilies,3,yellow lilies,,,,,,,,,720
+log bed,30,hardwood,,,,,,,,,,,,,3600
+log bench,5,hardwood,,,,,,,,,,,,,600
+log chair,8,hardwood,,,,,,,,,,,,,960
+log decorative shelves,13,hardwood,,,,,,,,,,,,,1560
+log dining table,15,hardwood,,,,,,,,,,,,,1800
+log extra-long sofa,16,hardwood,,,,,,,,,,,,,1920
+log garden lounge,12,hardwood,,,,,,,,,,,,,1440
+log pack,3,wood,5,hardwood,,,,,,,,,,,960
+log round table,15,hardwood,,,,,,,,,,,,,1800
+log stakes,3,wood,,,,,,,,,,,,,360
+log stool,4,wood,,,,,,,,,,,,,480
+log wall-mounted clock,2,hardwood,1,iron nugget,,,,,,,,,,,990
+lovely cosmos crown,3,pink cosmos,3,orange cosmos,,,,,,,,,,,1120
+lucky gold cat,2,gold nugget,1,lucky cat,,,,,,,,,,,21675
+lunar lander,10,star fragment,15,iron nugget,,,,,,,,,,,16250
+lunar rover,10,star fragment,10,iron nugget,4,old tire,,,,,,,,,12580
+lunar surface,5,star fragment,1,large star fragment,,,,,,,,,,,7500
+magazine rack,2,magazine,4,wood,,,,,,,,,,,690
+manga-library wall,10,magazine,,,,,,,,,,,,,1050
+manhole cover,3,iron nugget,,,,,,,,,,,,,2250
+maple-leaf pochette,6,maple leaf,,,,,,,,,,,,,2400
+maple-leaf pond stone,10,stone,3,maple leaf,,,,,,,,,,,2700
+maple-leaf umbrella,7,maple leaf,,,,,,,,,,,,,2800
+matryoshka,5,softwood,,,,,,,,,,,,,600
+medicine,1,wasp nest,3,clump of weeds,,,,,,,,,,,100
+medium cardboard boxes,4,cardboard box,,,,,,,,,,,,,240
+mermaid bed,2,pearl,2,giant clam,5,sand dollar,,,,,,,,,22400
+mermaid chair,1,pearl,1,giant clam,2,sand dollar,,,,,,,,,11140
+mermaid closet,2,pearl,2,giant clam,2,coral,5,sand dollar,,,,,,,22500
+mermaid dresser,2,pearl,1,giant clam,3,coral,,,,,,,,,22400
+mermaid flooring,2,pearl,5,sand dollar,5,stone,,,,,,,,,209750
+mermaid lamp,1,pearl,3,conch,2,coral,2,iron nugget,,,,,,,13850
+mermaid rug,1,pearl,3,sand dollar,,,,,,,,,,,10360
+mermaid screen,2,pearl,3,giant clam,5,sand dollar,,,,,,,,,23300
+mermaid shelf,1,pearl,1,giant clam,4,coral,,,,,,,,,12900
+mermaid sofa,1,pearl,10,sand dollar,,,,,,,,,,,11200
+mermaid table,1,pearl,4,sand dollar,,,,,,,,,,,10480
+mermaid vanity,1,pearl,1,giant clam,2,coral,2,iron nugget,,,,,,,12650
+mermaid wall,2,pearl,2,sea snail,2,sand dollar,2,coral,2,giant clam,2,cowrie,,,23520
+mermaid wall clock,1,pearl,3,sea snail,2,coral,2,iron nugget,,,,,,,12290
+mini DIY workbench,3,wood,3,hardwood,3,softwood,2,iron nugget,,,,,,,2580
+modeling clay,2,clay,,,,,,,,,,,,,400
+modern wood wall,5,wood,5,softwood,5,hardwood,,,,,,,,,1800
+money flooring,50000,bells,,,,,,,,,,,,,25000
+moon,15,star fragment,1,large star fragment,,,,,,,,,,,12500
+mossy garden rock,15,stone,15,clump of weeds,,,,,,,,,,,2550
+mountain standee,4,wood,5,softwood,,,,,,,,,,,1080
+mum crown,2,red mums,2,yellow mums,2,white mums,,,,,,,,,480
+mum cushion,3,yellow mums,10,clump of weeds,,,,,,,,,,,440
+mum wreath,3,white mums,3,yellow mums,3,red mums,,,,,,,,,720
+mums wand,1,yellow mums,,,,,,,,,,,,,1580
+mush lamp,1,skinny mushroom,5,clay,,,,,,,,,,,1600
+mush log,2,skinny mushroom,4,wood,,,,,,,,,,,1680
+mush low stool,2,round mushroom,,,,,,,,,,,,,800
+mush parasol,3,flat mushroom,,,,,,,,,,,,,1200
+mush partition,3,skinny mushroom,,,,,,,,,,,,,1800
+mush table,2,flat mushroom,6,wood,,,,,,,,,,,1520
+mush umbrella,3,flat mushroom,,,,,,,,,,,,,1200
+mush wall,1,elegant mushroom,1,round mushroom,1,skinny mushroom,1,flat mushroom,,,,,,,21400
+mushroom wand,3,skinny mushroom,3,star fragment,,,,,,,,,,,3300
+mushroom wreath,10,tree branch,1,round mushroom,1,skinny mushroom,1,flat mushroom,,,,,,,1500
+music stand,8,hardwood,,,,,,,,,,,,,960
+natural garden chair,6,hardwood,2,iron nugget,,,,,,,,,,,2220
+natural garden table,9,hardwood,3,iron nugget,,,,,,,,,,,3330
+natural mum wreath,10,green mums,,,,,,,,,,,,,4800
+natural square table,4,hardwood,2,iron nugget,,,,,,,,,,,1980
+net,5,tree branch,1,iron nugget,,,,,,,,,,,600
+nova light,5,star fragment,,,,,,,,,,,,,2500
+ocarina,5,clay,,,,,,,,,,,,,1000
+oil-barrel bathtub,1,oil barrel,3,tree branch,2,stone,,,,,,,,,655
+old-fashioned washtub,3,softwood,,,,,,,,,,,,,360
+orange dress,8,orange,,,,,,,,,,,,,1600
+orange end table,10,orange,4,wood,,,,,,,,,,,2480
+orange hat,5,orange,,,,,,,,,,,,,1000
+orange rug,6,orange,,,,,,,,,,,,,1200
+orange umbrella,7,orange,,,,,,,,,,,,,1400
+orange wall,20,orange,,,,,,,,,,,,,4000
+orange wall-mounted clock,10,orange,2,wood,,,,,,,,,,,2240
+ornament mobile,1,red ornament,1,blue ornament,1,gold ornament,4,tree branch,,,,,,,340
+ornament wreath,6,blue ornament,2,gold ornament,,,,,,,,,,,800
+outdoor bath,20,stone,5,hardwood,,,,,,,,,,,4350
+outdoor picnic set,10,cherry-blossom petal,,,,,,,,,,,,,4000
+palm-tree lamp,4,coconut,4,wood,4,clay,,,,,,,,,3280
+pan flute,7,young spring bamboo,,,,,,,,,,,,,2800
+pansy crown,2,red pansies,2,yellow pansies,2,white pansies,,,,,,,,,480
+pansy table,5,yellow pansies,3,hardwood,,,,,,,,,,,760
+pansy wand,1,yellow pansies,3,star fragment,,,,,,,,,,,1580
+pansy wreath,3,yellow pansies,3,white pansies,3,red pansies,,,,,,,,,720
+paw-print doorplate,3,wood,,,,,,,,,,,,,360
+peach chair,10,peach,5,wood,,,,,,,,,,,2600
+peach dress,8,peach,,,,,,,,,,,,,1600
+peach hat,5,peach,,,,,,,,,,,,,1000
+peach rug,6,peach,,,,,,,,,,,,,1200
+peach surprise box,10,peach,4,softwood,,,,,,,,,,,2480
+peach umbrella,7,peach,,,,,,,,,,,,,1400
+peach wall,20,peach,,,,,,,,,,,,,4000
+pear bed,10,pear,6,softwood,,,,,,,,,,,2720
+pear dress,8,pear,,,,,,,,,,,,,1600
+pear hat,5,pear,,,,,,,,,,,,,1000
+pear rug,6,pear,,,,,,,,,,,,,1200
+pear umbrella,7,pear,,,,,,,,,,,,,1400
+pear wall,20,pear,,,,,,,,,,,,,4000
+pear wardrobe,10,pear,5,wood,,,,,,,,,,,2600
+pile of leaves,3,pine cone,5,clump of weeds,,,,,,,,,,,1300
+pile of zen cushions,3,zen cushion,,,,,,,,,,,,,750
+pine bonsai tree,8,pine cone,5,clay,,,,,,,,,,,4200
+Pisces lamp,3,star fragment,2,Pisces fragment,2,gold nugget,4,stone,,,,,,,22050
+pitfall seed,4,clump of weeds,6,tree branch,,,,,,,,,,,140
+plain sink,6,wood,4,clay,1,iron nugget,,,,,,,,,2270
+plain wooden shop sign,6,wood,,,,,,,,,,,,,720
+pond stone,10,stone,,,,,,,,,,,,,1500
+pot,5,clay,,,,,,,,,,,,,1000
+potted ivy,5,clump of weeds,5,clay,,,,,,,,,,,1100
+pretty cosmos wreath,3,orange cosmos,3,pink cosmos,3,red cosmos,,,,,,,,,1200
+pretty tulip wreath,3,orange tulips,3,pink tulips,3,purple tulips,,,,,,,,,2400
+purple hyacinth crown,6,purple hyacinths,,,,,,,,,,,,,2880
+purple hyacinth wreath,10,purple hyacinths,,,,,,,,,,,,,4800
+purple pansy crown,6,purple pansies,,,,,,,,,,,,,2880
+purple windflower crown,6,purple windflowers,,,,,,,,,,,,,2880
+raccoon figurine,6,clay,,,,,,,,,,,,,1200
+recycled boots,2,boot,,,,,,,,,,,,,40
+recycled-can thumb piano,1,empty can,1,wood,1,iron nugget,,,,,,,,,890
+red-leaf pile,3,maple leaf,4,clump of weeds,,,,,,,,,,,1280
+ringtoss,2,wood,2,softwood,,,,,,,,,,,480
+robot hero,10,star fragment,30,rusted part,110,iron nugget,18,gold nugget,,,,,,,250000
+rocket,10,star fragment,20,iron nugget,,,,,,,,,,,20000
+rocking chair,3,wood,5,softwood,,,,,,,,,,,960
+rocking horse,5,softwood,,,,,,,,,,,,,600
+rope fence,4,iron nugget,,,,,,,,,,,,,3000
+rose bed,10,red roses,5,wood,,,,,,,,,,,1400
+rose crown,2,red roses,2,yellow roses,2,white roses,,,,,,,,,480
+rose wand,1,red roses,3,star fragment,,,,,,,,,,,1580
+rose wreath,3,red roses,3,white roses,3,yellow roses,,,,,,,,,720
+rustic-stone wall,5,stone,5,clay,,,,,,,,,,,1750
+Sagittarius arrow,3,star fragment,2,Sagittarius fragment,2,gold nugget,,,,,,,,,21750
+sakura-wood flooring,5,cherry-blossom petal,10,wood,,,,,,,,,,,3200
+sakura-wood wall,5,cherry-blossom petal,10,wood,,,,,,,,,,,3200
+sandy-beach flooring,1,sea snail,1,venus comb,1,sand dollar,1,coral,1,giant clam,1,cowrie,,,4120
+satellite,10,star fragment,15,iron nugget,,,,,,,,,,,16250
+sauna heater,6,stone,3,iron nugget,3,wood,,,,,,,,,3510
+scarecrow,3,tree branch,5,clump of weeds,,,,,,,,,,,130
+scattered papers,1,document stack,,,,,,,,,,,,,400
+sci-fi flooring,5,star fragment,1,large star fragment,,,,,,,,,,,7500
+sci-fi wall,5,star fragment,1,large star fragment,,,,,,,,,,,7500
+Scorpio lamp,3,star fragment,2,Scorpius fragment,2,gold nugget,5,stone,,,,,,,4200
+shell arch,3,sea snail,3,venus comb,3,sand dollar,3,coral,3,giant clam,3,cowrie,,,12360
+shell bed,5,giant clam,3,clay,4,stone,,,,,,,,,10200
+shell fountain,5,giant clam,3,stone,,,,,,,,,,,9450
+shell lamp,2,giant clam,3,clay,,,,,,,,,,,4200
+shell partition,4,venus comb,4,conch,,,,,,,,,,,8000
+shell rug,3,giant clam,,,,,,,,,,,,,5400
+shell speaker,3,conch,2,iron nugget,,,,,,,,,,,5700
+shell stool,5,cowrie,,,,,,,,,,,,,600
+shell table,7,sand dollar,3,clay,,,,,,,,,,,2280
+shell wand,3,summer shell,3,star fragment,,,,,,,,,,,5100
+shell wreath,1,summer shell,1,sea snail,1,sand dollar,1,coral,1,giant clam,1,cowrie,,,4720
+shellfish pochette,2,giant clam,6,summer shell,,,,,,,,,,,10800
+shovel,5,hardwood,1,iron nugget,,,,,,,,,,,600
+signpost,2,hardwood,3,softwood,,,,,,,,,,,600
+silo,12,iron nugget,6,hardwood,12,clay,12,stone,,,,,,,13920
+simple DIY workbench,5,hardwood,1,iron nugget,,,,,,,,,,,1350
+simple mum crown,6,green mums,,,,,,,,,,,,,2880
+simple well,15,stone,5,hardwood,,,,,,,,,,,2850
+simple wooden fence,6,softwood,,,,,,,,,,,,,720
+ski-slope flooring,8,snowflake,,,,,,,,,,,,,3200
+ski-slope wall,8,snowflake,,,,,,,,,,,,,320
+sky-egg outfit,3,sky egg,,,,,,,,,,,,,1200
+sky-egg shell,2,sky egg,,,,,,,,,,,,,800
+sky-egg shoes,2,sky egg,,,,,,,,,,,,,800
+sleigh,8,wood,,,,,,,,,,,,,960
+slingshot,5,hardwood,,,,,,,,,,,,,2250
+small cardboard boxes,2,cardboard box,,,,,,,,,,,,,120
+snazzy pansy wreath,3,orange pansies,3,blue pansies,3,yellow pansies,,,,,,,,,1200
+snowflake pochette,6,snowflake,,,,,,,,,,,,,2400
+snowflake wall,12,snowflake,,,,,,,,,,,,,4800
+snowflake wreath,4,snowflake,,,,,,,,,,,,,1600
+snowperson head,1,large snowflake,5,snowflake,,,,,,,,,,,7000
+space shuttle,5,star fragment,10,iron nugget,,,,,,,,,,,10000
+spiky fence,8,hardwood,,,,,,,,,,,,,960
+stack of books,5,book,,,,,,,,,,,,,725
+stacked magazines,6,magazine,,,,,,,,,,,,,630
+stacked-wood wall,15,hardwood,,,,,,,,,,,,,1800
+stall,12,wood,,,,,,,,,,,,,1440
+standard umbrella stand,3,iron nugget,,,,,,,,,,,,,2250
+star clock,3,star fragment,1,iron nugget,,,,,,,,,,,2250
+star head,5,star fragment,,,,,,,,,,,,,2500
+star pochette,6,star fragment,,,,,,,,,,,,,3000
+star wand,1,large star fragment,3,star fragment,,,,,,,,,,,6500
+starry garland,10,star fragment,,,,,,,,,,,,,5000
+starry wall,5,star fragment,1,large star fragment,,,,,,,,,,,7500
+starry-sands flooring,3,summer shell,1,sea snail,1,venus comb,1,sand dollar,1,coral,1,giant clam,1,cowrie,7720
+starry-sky wall,5,star fragment,1,large star fragment,,,,,,,,,,,7500
+steamer-basket set,6,young spring bamboo,,,,,,,,,,,,,2400
+steel flooring,7,iron nugget,,,,,,,,,,,,,5250
+steel-frame wall,8,iron nugget,,,,,,,,,,,,,6000
+stone arch,90,stone,,,,,,,,,,,,,13500
+stone axe,3,wood,5,tree branch,1,stone,,,,,,,,,560
+stone fence,4,stone,,,,,,,,,,,,,600
+stone lion-dog,24,stone,,,,,,,,,,,,,3600
+stone stool,3,stone,,,,,,,,,,,,,450
+stone table,8,stone,,,,,,,,,,,,,1200
+stone tablet,12,stone,,,,,,,,,,,,,1800
+stone wall,10,stone,,,,,,,,,,,,,1500
+stone-egg outfit,3,stone egg,,,,,,,,,,,,,1200
+stone-egg shell,2,stone egg,,,,,,,,,,,,,800
+stone-egg shoes,2,stone egg,,,,,,,,,,,,,800
+straw fence,10,clump of weeds,3,wood,,,,,,,,,,,560
+straw umbrella hat,10,clump of weeds,,,,,,,,,,,,,200
+street piano,1,upright piano,1,painting set,,,,,,,,,,,26755
+succulent plant,10,clump of weeds,1,empty can,,,,,,,,,,,220
+summer-shell rug,6,summer shell,,,,,,,,,,,,,7200
+swinging bench,5,wood,7,softwood,,,,,,,,,,,1440
+tabletop festive tree,5,gold ornament,3,tree branch,2,clay,,,,,,,,,930
+tall garden rock,60,stone,,,,,,,,,,,,,9000
+tall lantern,18,stone,,,,,,,,,,,,,2700
+Taurus bathtub,3,star fragment,2,Taurus fragment,1,gold nugget,8,stone,,,,,,,12350
+tea table,12,hardwood,,,,,,,,,,,,,1440
+terrarium,12,clump of weeds,2,iron nugget,,,,,,,,,,,930
+three-tiered snowperson,1,large snowflake,6,snowflake,2,tree branch,,,,,,,,,7420
+tiki torch,5,tree branch,5,wood,,,,,,,,,,,650
+timber doorplate,2,wood,1,pink roses,,,,,,,,,,,400
+tiny library,3,book,5,wood,,,,,,,,,,,1035
+tire stack,3,old tire,,,,,,,,,,,,,60
+tire toy,1,old tire,,,,,,,,,,,,,20
+traditional balancing toy,4,acorn,2,hardwood,,,,,,,,,,,1840
+traditional straw coat,8,clump of weeds,,,,,,,,,,,,,160
+trash bags,1,empty can,1,boot,1,old tire,,,,,,,,,60
+tree branch wreath,10,tree branch,,,,,,,,,,,,,100
+tree standee,5,wood,8,softwood,,,,,,,,,,,1560
+tree-branch wand,5,tree branch,3,star fragment,,,,,,,,,,,1550
+tree's bounty arch,4,pine cone,5,acorn,5,maple leaf,15,tree branch,,,,,,,5750
+tree's bounty big tree,5,pine cone,4,acorn,4,maple leaf,8,tree branch,4,clay,,,,,6080
+tree's bounty lamp,6,acorn,4,clay,,,,,,,,,,,3200
+tree's bounty little tree,6,pine cone,4,acorn,1,hardwood,,,,,,,,,4120
+tree's bounty mobile,2,pine cone,3,acorn,3,tree branch,,,,,,,,,2030
+trophy case,24,hardwood,3,gold nugget,6,iron nugget,,,,,,,,,33690
+tropical vista,5,summer shell,,,,,,,,,,,,,6000
+tulip crown,2,red tulips,2,yellow tulips,1,white tulips,,,,,,,,,400
+tulip surprise box,5,red tulips,3,softwood,,,,,,,,,,,760
+tulip wand,1,red tulips,3,star fragment,,,,,,,,,,,1580
+tulip wreath,3,red tulips,3,yellow tulips,3,white tulips,,,,,,,,,720
+ukulele,5,hardwood,,,,,,,,,,,,,600
+underwater flooring,3,summer shell,3,coral,,,,,,,,,,,6600
+underwater wall,3,summer shell,5,coral,,,,,,,,,,,8600
+unglazed dish set,3,clay,,,,,,,,,,,,,600
+vaulting pole,5,softwood,,,,,,,,,,,,,600
+vertical-board fence,8,wood,,,,,,,,,,,,,960
+Virgo harp,3,star fragment,2,Virgo fragment,2,gold nugget,4,stone,,,,,,,22050
+wand,2,star fragment,,,,,,,,,,,,,1000
+water flooring,6,summer shell,,,,,,,,,,,,,7200
+water pump,2,iron nugget,6,clay,,,,,,,,,,,2700
+water-egg outfit,3,water egg,,,,,,,,,,,,,1200
+water-egg shell,2,water egg,,,,,,,,,,,,,800
+water-egg shoes,2,water egg,,,,,,,,,,,,,800
+watering can,5,softwood,1,iron nugget,,,,,,,,,,,600
+wave breaker,10,stone,10,clay,,,,,,,,,,,3500
+wedding fence,5,iron nugget,3,softwood,,,,,,,,,,,4110
+wedding wand,1,wedding flower stand,3,star fragment,,,,,,,,,,,3500
+western-style stone,30,stone,,,,,,,,,,,,,4500
+wild log bench,8,hardwood,,,,,,,,,,,,,960
+wild-wood wall,15,wood,,,,,,,,,,,,,1800
+windflower crown,2,red windflowers,2,orange windflowers,2,white windflowers,,,,,,,,,480
+windflower fan,3,red windflowers,2,iron nugget,,,,,,,,,,,1740
+windflower wand,1,orange windflowers,3,star fragment,,,,,,,,,,,1580
+windflower wreath,3,red windflowers,3,white windflowers,3,orange windflowers,,,,,,,,,720
+Wobbling Zipper toy,4,earth egg,4,stone egg,4,leaf egg,4,wood egg,4,sky egg,4,water egg,,,9600
+wood-egg outfit,3,wood egg,,,,,,,,,,,,,1200
+wood-egg shell,2,wood egg,,,,,,,,,,,,,800
+wood-egg shoes,2,wood egg,,,,,,,,,,,,,800
+wooden bookshelf,5,book,10,wood,,,,,,,,,,,1925
+wooden bucket,3,wood,1,iron nugget,,,,,,,,,,,1110
+wooden chair,6,wood,,,,,,,,,,,,,720
+wooden chest,16,wood,,,,,,,,,,,,,1920
+wooden double bed,30,wood,,,,,,,,,,,,,3600
+wooden end table,8,wood,,,,,,,,,,,,,960
+wooden fish,3,wood,,,,,,,,,,,,,360
+wooden full-length mirror,5,wood,1,iron nugget,,,,,,,,,,,1350
+wooden low table,10,wood,,,,,,,,,,,,,1200
+wooden mini table,6,wood,,,,,,,,,,,,,720
+wooden simple bed,18,wood,,,,,,,,,,,,,2160
+wooden stool,4,wood,,,,,,,,,,,,,480
+wooden table,15,wood,,,,,,,,,,,,,1800
+wooden table mirror,3,wood,1,iron nugget,,,,,,,,,,,1110
+wooden toolbox,4,softwood,2,iron nugget,,,,,,,,,,,1980
+wooden wardrobe,12,wood,,,,,,,,,,,,,1440
+wooden waste bin,4,wood,,,,,,,,,,,,,480
+wooden-block bed,20,softwood,,,,,,,,,,,,,2400
+wooden-block bench,7,softwood,,,,,,,,,,,,,840
+wooden-block bookshelf,6,softwood,,,,,,,,,,,,,720
+wooden-block chair,6,softwood,,,,,,,,,,,,,720
+wooden-block chest,15,softwood,,,,,,,,,,,,,1800
+wooden-block stereo,8,softwood,2,iron nugget,,,,,,,,,,,2460
+wooden-block stool,5,softwood,,,,,,,,,,,,,600
+wooden-block table,11,softwood,,,,,,,,,,,,,1320
+wooden-block toy,3,softwood,,,,,,,,,,,,,360
+wooden-block wall clock,5,softwood,1,iron nugget,,,,,,,,,,,1350
+wooden-knot wall,15,hardwood,,,,,,,,,,,,,1800
+wooden-mosaic wall,15,wood,,,,,,,,,,,,,1800
+wooden-plank sign,5,hardwood,,,,,,,,,,,,,600
+woodland wall,15,clump of weeds,9,softwood,,,,,,,,,,,1380
+yellow-leaf pile,3,acorn,5,clump of weeds,,,,,,,,,,,1300
+zen fence,3,iron nugget,3,clay,3,stone,,,,,,,,,3300
+zen-style stone,30,stone,,,,,,,,,,,,,4500
