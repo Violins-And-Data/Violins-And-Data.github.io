@@ -144,17 +144,24 @@
 						</header>
 						<div class="row">
 							<section class="col-6 col-12-narrower">
-								<form method="post" action="#">
+								<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" 
+								 action="https://formspree.io/f/{form_id}" method="post">
+									<fieldset id="fs-frm-inputs">									
 									<div class="row gtr-50">
 										<div class="col-6 col-12-mobile">
-											<input name="name" placeholder="Name" type="text" />
+											<label for="full-name">Name</label>
+											<input name="name" placeholder="Name" type="text" id='full-name'/>
 										</div>
 										<div class="col-6 col-12-mobile">
-											<input name="email" placeholder="Email" type="text" />
+											<label for="email-address">Email Address</label>
+											<input name="email" placeholder="Email" type="text" name="_replyto" id="email-address" />
 										</div>
 										<div class="col-12">
-											<textarea name="message" placeholder="Message"></textarea>
+											<label for="message">Message</label>
+											<textarea id="message" placeholder="Message" name="message"></textarea>
+											<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
 										</div>
+										</fieldset>
 										<div class="col-12">
 											<ul class="actions">
 												<li><input type="submit" value="Send Message" /></li>
