@@ -1,7 +1,13 @@
 Library of Random Variate Generation Routines
-Author: Noelle Richards
+The purpose of this library is to create a library of random variate generation routines without using the built-in functions in R.
 
-User Guide: 
+Files: 
+Project 2 - Electric Boogaloo.pdf
+  Final presentation of project
+Random Variate Generation.R
+  R program containing library of RV generation routines
+
+User Guide for Mini Project 2 - Random Variate Generation.R
 
 1. Set seed number (line 11)
 2. Run lines 1-181 in order to load the function. 
