@@ -15,14 +15,12 @@ Required Dependencies:
       cplex
       timeit
 
-Zip File Contents:
+files:
   data (folder)
     diff.csv : csv file containing data on the difference between performance of the optimization model and the default model.
     items.csv : csv file containing all raw materials and their sell prices (140 total).
     recipes.csv : csv file containing all crafting recipes in ACNH and their sell prices (610 total).
-  docs (folder)
-    Richards_Noelle_Project_Proposal.doc,.pdf : Project proposal document.
-    Richards_Noelle_Project_Report.doc,.pdf : Final project report.
+  Richards_Noelle_Project_Report.doc,.pdf : Final project report.
   Project.py : python script that executes the optimization and default models.
   userMats.csv : csv file the end user should use to input all raw materials available for crafting.
 
